@@ -2,15 +2,11 @@
 
 This project provides a simple OCR (Optical Character Recognition) tool to extract text from images and PDF files using Python. It utilizes libraries such as OpenCV, Tesseract, and PDF2Image to process and extract text from different file formats.
 
-## what can it do?
+## What can it do?
 
 - Perform OCR on JPEG/JPG, PNG, and PDF files.
 - Save the extracted text to a file.
 - Support for multiple pages in PDF files.
-- **Supported File Types:**
-
-   - **Images**: JPEG, JPG, PNG
-   - **Documents**: PDF
 
 ## Installation
 
@@ -37,12 +33,12 @@ This project provides a simple OCR (Optical Character Recognition) tool to extra
 
 ## Examples
 
-1. **Image (whitman excerpt)**:
+**1. Image (whitman excerpt):**
 
 ![Whitman Image](whitman.png)
 
 - **Extracted Text**:
-can also read the image [here](Extracted_texts/extracted_png.txt)
+can also read the Extracted text [here](Extracted_texts/extracted_png.txt)
 
 ```txt
 
@@ -97,13 +93,13 @@ Exactly the value of one and exactly the value of two, and which is ahead?
 
 ```
 
-2. **PDF file**:
+**2. PDF file**:
 
-Full document can be accessed [here](dinner41.pdf).
+   PDF can be accessed [here](dinner41.pdf).
 
 - **Extracted Text**:
 
-Full document can be accessed [here](Extracted_texts/extracted_pdf.txt).
+   Extracted text can be accessed [here](Extracted_texts/extracted_pdf.txt).
 
 
 ## Additional Resources
