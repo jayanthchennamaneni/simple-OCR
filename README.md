@@ -8,8 +8,9 @@ This project provides a simple OCR (Optical Character Recognition) tool to extra
 - Save the extracted text to a file.
 - Support for multiple pages in PDF files.
 - **Supported File Types:**
-      - **Images**: JPEG, JPG, PNG
-      - **Documents**: PDF
+
+   - **Images**: JPEG, JPG, PNG
+   - **Documents**: PDF
 
 ## Installation
 
@@ -21,7 +22,7 @@ This project provides a simple OCR (Optical Character Recognition) tool to extra
 
 2. **Create a virtual environment** (optional but recommended):
    ```sh
-   python -m venv venv
+   python -m venv env
    source env/bin/activate  # On Windows use `venv\Scripts\activate`
    ```
 
@@ -29,7 +30,7 @@ This project provides a simple OCR (Optical Character Recognition) tool to extra
    ```sh
    pip install -r requirements.txt
    ```
-4. **script usage**:
+4. **Script usage**:
    ```sh
    python ocr.py whitman.png
    ```
@@ -37,11 +38,10 @@ This project provides a simple OCR (Optical Character Recognition) tool to extra
 ## Examples
 
 1. **Image (whitman excerpt)**:
-```
-![Whitman Image](whitman.png)
-```
 
-**Extracted Text**:
+![Whitman Image](whitman.png)
+
+- **Extracted Text**:
 can also read the image [here](Extracted_texts/extracted_png.txt)
 
 ```txt
@@ -98,14 +98,15 @@ Exactly the value of one and exactly the value of two, and which is ahead?
 ```
 
 2. **PDF file**:
+
 Full document can be accessed [here](dinner41.pdf).
 
-**Extracted Text**:
+- **Extracted Text**:
 
 Full document can be accessed [here](Extracted_texts/extracted_pdf.txt).
 
 
 ## Additional Resources
 
-- [Tesseract OCR Documentation](https://tesseract-ocr.github.io/)
-- [OpenCV Documentation](https://docs.opencv.org/)
+- [Tesseract OCR Documentation](https://tesseract-ocr.github.io/tessdoc/)
+- [OpenCV Documentation](https://docs.opencv.org/4.x/)
