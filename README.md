@@ -37,67 +37,68 @@ This project provides a simple OCR (Optical Character Recognition) tool to extra
 
 ![Whitman Image](whitman.png)
 
-- **Extracted Text**:
-can also read the Extracted text [here](Extracted_texts/extracted_png.txt)
+- **Extracted Text:**
 
-```txt
+   Extracted text can also be accessed [here](Extracted_texts/extracted_png.txt)
 
-3
-I have heard what the talkers were talking, the talk of the beginning and the end,
-But I do not talk of the beginning or the end.
+   ```txt
 
-There was never any more inception than there is now,
-Nor any more youth or age than there is now,
+   3
+   I have heard what the talkers were talking, the talk of the beginning and the end,
+   But I do not talk of the beginning or the end.
 
-And will never be any more perfection than there is now,
-Nor any more heaven or hell than there is now.
+   There was never any more inception than there is now,
+   Nor any more youth or age than there is now,
 
-Urge and urge and urge,
-Always the procreant urge of the world.
+   And will never be any more perfection than there is now,
+   Nor any more heaven or hell than there is now.
 
-Out of the dimness opposite equals advance, always substance and increase, always sex,
-Always a knit of identity, always distinction, always a breed of life.
+   Urge and urge and urge,
+   Always the procreant urge of the world.
 
-To elaborate is no avail, learn’d and unlearn’d feel that it is so.
+   Out of the dimness opposite equals advance, always substance and increase, always sex,
+   Always a knit of identity, always distinction, always a breed of life.
 
-Sure as the most certain sure, plumb in the uprights, well entretied, braced in the beams,
-Stout as a horse, affectionate, haughty, electrical,
-land this mystery here we stand.
+   To elaborate is no avail, learn’d and unlearn’d feel that it is so.
 
-Clear and sweet is my soul, and clear and sweet is all that is not my soul.
+   Sure as the most certain sure, plumb in the uprights, well entretied, braced in the beams,
+   Stout as a horse, affectionate, haughty, electrical,
+   land this mystery here we stand.
 
-Lack one lacks both, and the unseen is proved by the seen,
-Till that becomes unseen and receives proof in its turn.
+   Clear and sweet is my soul, and clear and sweet is all that is not my soul.
 
-Showing the best and dividing it from the worst age vexes age,
-Knowing the perfect fitness and equanimity of things, while they discuss I am silent, and go bathe
-and admire myself.
+   Lack one lacks both, and the unseen is proved by the seen,
+   Till that becomes unseen and receives proof in its turn.
 
-Welcome is every organ and attribute of me, and of any man hearty and clean,
-Not an inch nor a particle of an inch is vile, and none shall be less familiar than the rest.
+   Showing the best and dividing it from the worst age vexes age,
+   Knowing the perfect fitness and equanimity of things, while they discuss I am silent, and go bathe
+   and admire myself.
 
-Iam satisfied—I see, dance, laugh, sing;
+   Welcome is every organ and attribute of me, and of any man hearty and clean,
+   Not an inch nor a particle of an inch is vile, and none shall be less familiar than the rest.
 
-As the hugging and loving bed-fellow sleeps at my side through the night, and withdraws at the
-peep of the day with stealthy tread,
+   Iam satisfied—I see, dance, laugh, sing;
 
-Leaving me baskets cover'd with white towels swelling the house with their plenty,
+   As the hugging and loving bed-fellow sleeps at my side through the night, and withdraws at the
+   peep of the day with stealthy tread,
 
-Shall I postpone my acceptation and realization and scream at my eyes,
+   Leaving me baskets cover'd with white towels swelling the house with their plenty,
 
-That they turn from gazing after and down the road,
+   Shall I postpone my acceptation and realization and scream at my eyes,
 
-And forthwith cipher and show me to a cent,
+   That they turn from gazing after and down the road,
 
-Exactly the value of one and exactly the value of two, and which is ahead?
+   And forthwith cipher and show me to a cent,
 
-```
+   Exactly the value of one and exactly the value of two, and which is ahead?
 
-**2. PDF file**:
+   ```
+
+**2. PDF file:**
 
    PDF can be accessed [here](dinner41.pdf).
 
-- **Extracted Text**:
+- **Extracted Text:**
 
    Extracted text can be accessed [here](Extracted_texts/extracted_pdf.txt).
 
