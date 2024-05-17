@@ -98,11 +98,11 @@ Exactly the value of one and exactly the value of two, and which is ahead?
 ```
 
 2. **PDF file**:
-can read the full document [here](dinner41.pdf).
+Full document can be accessed [here](dinner41.pdf).
 
 **Extracted Text**:
 
-can read the full document [here](Extracted_texts/extracted_pdf.txt).
+Full document can be accessed [here](Extracted_texts/extracted_pdf.txt).
 
 
 ## Additional Resources
